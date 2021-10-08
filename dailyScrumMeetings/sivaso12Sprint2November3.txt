@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Worked on the error checker class
+    - Completed history class
+    - worked on echo class
+
+What do I plan to work in the next three days?
+    - Complete the error checker class
+    - Complete JShell
+    - Begin testing
+
+
+Am I blocked on anything?
+    - No I am not

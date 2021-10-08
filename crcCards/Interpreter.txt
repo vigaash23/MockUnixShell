@@ -1,0 +1,9 @@
+Class name: Interpreter
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Convert user input into a parsed input
+- Displays error message if something wrong has occurred
+
+Collaborators:

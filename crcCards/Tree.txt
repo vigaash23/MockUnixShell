@@ -1,0 +1,9 @@
+Class name: Tree
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Prints the whole filesystem as a tree
+
+Collaborators:
+- Filesystem

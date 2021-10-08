@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Fixing up unit tests
+    - Cleaned up interpreter to be shorter as well as JShell
+
+What do I plan to work in the next three days?
+    - Finish writing unit test
+    - Finish refactoring code
+
+Am I blocked on anything?
+    - Currently, no I am not blocked on anything.

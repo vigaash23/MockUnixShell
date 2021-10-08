@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Implemented the basic of MakeDirectory class
+    - Created additional files necessary for MakeDirectory to function
+
+What do I plan to work in the next three days?
+    - Complete List class
+    - Complete FileSystem class
+    - Begin implementing the LIFO Structure for some of the classes
+
+Am I blocked on anything?
+    - I was blocked a little bit on the designe on the lifo data structure on the last sprint

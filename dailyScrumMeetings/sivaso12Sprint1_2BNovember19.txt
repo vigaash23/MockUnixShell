@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+    - completed the man class
+
+What do I plan to work in the next three days?
+    - complete the ls addition with recursion
+
+Am I blocked on anything?
+    - No, I am not

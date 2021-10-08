@@ -1,0 +1,33 @@
+//Sprint 1 Backlog.  
+November 16th to November 22nd
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a terminal user I want to be able to remove directories
+b) As a terminal user I want to make as many new folders as I need
+c) I want to be able to print the contents of multiple files
+d) As a terminal user i want to be able to move files from one directory into another
+e) As a terminal user I want to be able to see the documentation everything within the shell
+f) As a terminal user I want to be able to copy a folder or file into another folder
+g) As a terminal user I want to be able to list all of the directories
+
+Specific tasks to be accomplished:
+a-1. (rm) Write and implement the functionality of the rm class
+b-1. (mkdir) Implement the functionality of the added features
+c-1. (cat) Implement the functionality so that cat displays the content of multiple files
+d-1. (mv) Write and implement the functionality of the mv class
+e-1. (man) Add the implementation of the man class so that cmd works
+f-1. (cp) Add the implementation the functionality of the cp class
+g-1 (ls) Add the implementation so that recursive listing works
+
+
+These tasks are assigned as follows:
+
+User: Vigaash
+Tasks: e-1, g-1
+
+User: Rahul
+Tasks: c-1, d-1, f-1
+
+User: Damian
+Tasks: a-1, b-1

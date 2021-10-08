@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- PrintWorkingDirectory is done
+	- ChangeDirectory is done
+	- Cat is done
+	- Added to the Echo class
+
+What do I plan to work in the next three days?
+    - Complete Echo
+    - Complete JShell
+    - Contribute to ErrorChecker if that is not completed
+
+Am I blocked on anything?
+    - Don't think I am blocked on anything

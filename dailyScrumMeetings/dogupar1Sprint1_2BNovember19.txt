@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Implemented and finished the new Cat class
+	- Implemented the base code for the Move class
+	- Implemented the base code for the Copy class
+
+What do I plan to work in the next three days?
+	- Testing and playing around with the implementations to verify
+      that these classes are good to go
+
+Am I blocked on anything?
+    - I do not believe that I am blocked on anything at the moment

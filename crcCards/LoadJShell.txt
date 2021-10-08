@@ -1,0 +1,8 @@
+Class name: LoadJShell
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Loads the last JShell session
+
+Collaborators:

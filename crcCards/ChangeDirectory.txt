@@ -1,0 +1,11 @@
+Class name: ChangeDirectory
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Changes directory relative to the current directory or relative to the full 
+  path
+
+Collaborators:
+- FileSystem
+- Directory

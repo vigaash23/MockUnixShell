@@ -1,0 +1,14 @@
+Class name: Echo
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Puts input string into an output file
+- Overrides previous contents of output file with input string (when using >)
+- Appends to previous contents of output file with input string (when using >>)
+- Creates new file if output file does not exist
+
+Collaborators:
+- Filesystem
+- Directory
+- File

@@ -1,0 +1,9 @@
+Class name: Directory
+Parent class (if any): FileSystem
+Subclasses (if any):
+
+Responsibilities:
+- Store files
+
+Collaborators:
+- File

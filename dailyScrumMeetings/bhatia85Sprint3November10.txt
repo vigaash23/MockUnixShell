@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Completed the ErrorChecker class
+    - Fixed some bugs with MakeDirectory
+
+What do I plan to work in the next three days?
+    - Continue checking for bugs
+    - Execute the program and make sure that nothing is missing
+
+Am I blocked on anything?
+    - Nothing at the moment
+

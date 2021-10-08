@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Worked on the error checker class
+    - planned out how to execute history class 
+
+What do I plan to work in the next three days?
+    - Complete the error checker class
+    - Complete history class
+    - Complete the echo class
+
+Am I blocked on anything?
+    - No I am not

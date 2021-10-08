@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- Modified the copy class to work with paths instead of just
+	  files and directories
+	- Modified the move class to work with paths instead of just
+	  files and directories
+
+What do I plan to work in the next three days?
+	- Start the new classes namely search and tree
+	- Implement the TA's recommendations and fixes
+	- Start the JUnit testing
+
+Am I blocked on anything?
+    - Not blocked on anything

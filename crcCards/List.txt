@@ -1,0 +1,11 @@
+Class name: List
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Prints the names of files and directories in the current directory
+
+Collaborators:
+- Filesystem
+- Directory
+- File

@@ -1,0 +1,10 @@
+Class name: SaveJShell
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Saves the current JShell session
+
+Collaborators:
+- Filesystem
+- History

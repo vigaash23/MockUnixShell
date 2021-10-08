@@ -1,0 +1,9 @@
+Class name: Search
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Searches for the desired file or directory
+
+Collaborators:
+- Filesystem

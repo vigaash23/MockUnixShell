@@ -1,0 +1,31 @@
+Class name: JShell
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Displays the output from commands within the shell
+- Displays current directory that the user is in
+
+Collaborators:
+- FileSystem
+- PrintWorkingDirectory
+- Exit
+- ChangeDirectory
+- MakeDirectory
+- List
+- History
+- Interpreter
+- Cat
+- Echo
+- Man
+- Pushd
+- Popd
+- ErrorChecker
+- Move
+- Copy
+- Curl
+- Remove
+- Tree
+- LoadJShell
+- SaveJShell
+- Search

@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - fixed errors from 2A
+    - completed man class
+    - begun ls
+
+What do I plan to work in the next three days?
+    - complete the ls addition with recursion
+    - complete curl
+    - fix errors from 2A
+    - start unit testing
+
+Am I blocked on anything?
+    - No, I am not

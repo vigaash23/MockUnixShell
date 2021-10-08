@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Mid way through completion of Curl class
+    - Made fixes to errors we had in A2A
+
+What do I plan to work in the next three days?
+    - Complete the error checker class
+    - Complete curl
+    - complete ls
+    - complete Unit testing
+
+
+Am I blocked on anything?
+    - No I am not

@@ -1,0 +1,9 @@
+Class name: Curl
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Downloads a file from a URL
+
+Collaborators:
+- Echo

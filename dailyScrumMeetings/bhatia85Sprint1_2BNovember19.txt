@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Worked on implementing the design for the Remove class
+    - Made changes to the MakeDirectory class to allow for any amount of folders
+
+What do I plan to work in the next three days?
+    - Do some testing for edge cases of the Remove class
+    - Finish implementing everything in the ErrorChecker to allow MakeDirectory to function with multiple parameters
+
+Am I blocked on anything?
+    - Currently, no I am not blocked on anything.

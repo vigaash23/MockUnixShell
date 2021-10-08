@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Finished implementing the remove class.
+    - Made changes to errorchecker to properly handle wrong inputs for makedirectory.
+
+What do I plan to work in the next three days?
+    - Double check the failures from 2A testing and feedback from the TA to ensure that everything is fixed.
+    - Shorten methods within classes that could be split into helper functions or have lines deleted.
+
+Am I blocked on anything?
+    - Currently, no I am not blocked on anything.

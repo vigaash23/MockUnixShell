@@ -1,0 +1,10 @@
+Class name: Popd
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Removes the top entry of the directory stack and changes directory into it
+
+Collaborators:
+- ChangeDirectory
+- FileSystem

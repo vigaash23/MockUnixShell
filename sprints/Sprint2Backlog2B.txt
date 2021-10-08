@@ -1,0 +1,39 @@
+Sprint 2 Backlog 
+//Sprint 2 Backlog.  
+November 23th to November 30
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a)As a terminal user I want to be able to work where I left off on files.
+b) As a terminal user I want to be able to save my progress in the program once 
+I quit for later use.
+c) As a terminal user i want to be able to search for stuff within the shell 
+with some support for search filters
+d) As a terminal user I want to be able to see the entire file system in an 
+organized tree
+e) 
+f) As a terminal user I want to be able to add files from the web to my 
+directory
+g) As a terminal user I want to be able to list all of the directories
+
+Specific tasks to be accomplished:
+a-1. (loadJShell) Write and implement the functionality of the loadJShell class
+b-1. (saveJShell) Implement the functionality of the saveJShell class
+c-1. (search) Implement the functionality of the search class
+d-1. (tree) Write and implement the functionality of the tree class
+e-1. (curl) Add the implementation of the curl class
+f-1. (ls) Add the implementation so that recursive listing works
+y-1. Fix bugs and test / unit test
+z-1. Fix errors from 2A Rubric
+
+
+These tasks are assigned as follows:
+
+User: Vigaash
+Tasks: z-1, y-1, e-1, f-1
+
+User: Rahul
+Tasks: c-1, d-1, y-1
+
+User: Damian
+Tasks: a-1, b-1, y-1

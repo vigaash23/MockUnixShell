@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Edited CRC cards
+    - Finished removed the ones that weren't required
+    - Planned out some code for how the Exit class will function
+
+What do I plan to work in the next three days?
+    - Finish editing CRC Cards
+    - Finish the Exit Class
+
+Am I blocked on anything?
+    - Not blocked on anything

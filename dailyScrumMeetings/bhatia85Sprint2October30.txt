@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Implemented List class methods
+    - Implemented the Pushd methods
+
+What do I plan to work in the next three days?
+    - Finish Implementing Popd methods
+    - Test out the FileSystem and check how it interacts with other classes
+
+Am I blocked on anything?
+    - Nothing at the moment
+

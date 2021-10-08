@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Helped finish tree
+	- Added file to directory and file to file for move 
+	- Added file to directory and file to file for copy
+	- Finished a basic version of search
+What do I plan to work in the next three days?
+	- Check if everything we need is there if not add it
+	- Test
+
+Am I blocked on anything?
+    - Not blocked on anything

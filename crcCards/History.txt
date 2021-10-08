@@ -1,0 +1,8 @@
+Class name: History
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Displays all previous commands
+
+Collaborators:

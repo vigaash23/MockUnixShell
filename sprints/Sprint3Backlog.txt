@@ -1,0 +1,38 @@
+//Sprint 3 Backlog.  
+November 4 to November 10
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a terminal user it would be nice to keep track of previous folders so I can access them later
+b) As a terminal user I would like to be able to change into a previous folder saved within my terminal
+c) As a terminal user I want to be able to quickly make files
+d) As a terminal user I want to be able to overwrite files when I desire
+e) As a terminal user I would like to be able to add to files whenever I want
+f) As a terminal user I would like to see if something went wrong with the program
+g) As a terminal user I would like a visual way to interact with the file system
+
+Specific tasks to be accomplished:
+
+a-1. (Pushd) Write the base code for the Pushd command to add element to top of stack
+a-2. (Pushd) Implement the stack for LIFO
+b-1. (Popd) Write the base code of the Popd command so that it removes the top element the stack
+b-2. (Popd) Implement the stack for LIFO
+c-1. (Echo) Implement the base code for the Echo class 
+d-1. (Echo arg1 > arg2 method) Implement the functionality for a method that supports the creation of files
+e-1. (Echo arg1 >> arg2 method) Implement the functionality for a method that supports the feature of appending to files
+f-1.(CommandErrorChecker) Implement the functionality of the CommandErrorChecker class so that it can let the user know what went wrong with the program
+g-1. (JShell) Implement the functionality of the terminal window
+
+
+
+
+
+These tasks are assigned as follows:
+
+User: Vigaash
+Tasks: a-1, d-1, f-1, g-1
+
+User: Rahul
+Tasks: b-1, c-1, e-1, g-1
+
+User: Damian
+Tasks: a-2, b-2, f-1, g-1

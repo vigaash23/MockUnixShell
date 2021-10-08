@@ -1,0 +1,26 @@
+Class name: Man
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Print the documentation of all the commands to the user
+
+Collaborators:
+- PrintWorkingDirectory
+- ChangeDirectory
+- Exit
+- MakeDirectory
+- History
+- Interpreter
+- Cat
+- Echo
+- Pushd
+- Popd
+- Man
+- List
+- Search
+- LoadJShell
+- SaveJShell
+- Remove
+- Tree
+- Curl

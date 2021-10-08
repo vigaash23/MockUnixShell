@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Worked on the error checker class
+    - completed the jshell
+    - made bug fixes throughout entire code
+    - finished echo
+
+What do I plan to work in the next three days?
+    - Complete the error checker class
+    - fix all bugs 
+    - test program with unique test cases as presented in demo meeting
+
+Am I blocked on anything?
+    - No I am not

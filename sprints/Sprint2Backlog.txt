@@ -1,0 +1,49 @@
+//Sprint 2 Backlog.  
+October 28 to November 3
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a terminal user I want to be able to see everything that is inside a folder
+b) As a terminal user I want to be able to make folders through the terminal
+c) As a terminal user I want to be able to change in between folders
+d) As a terminal user I want to be able to see which folder I am currently inside of
+e) As a terminal user it would be nice to keep track of previous folders so I can access them later
+f) As a terminal user I would like to be able to change into a previous folder saved within my terminal
+g) As a terminal user I would like to be able to see previous commands that I have used so I can quickly refer to them if I am doing repetitive tasks
+h) As a terminal user I would like to be able to see what is inside of one or more files
+i) As a terminal user I want to be able to quickly make files
+j) As a terminal user I want to be able to overwrite files when I desire
+k) As a terminal user I would like to be able to add to files whenever I want
+l) As a terminal user I would like to see if something went wrong with the program
+m) As a terminal user I would like a visual way to interact with the file system
+
+Specific tasks to be accomplished:
+a-1. (Ls) Implement the functionality of the Ls class so that it prints everything inside a folder
+b-1. (MkDir) Implement the functionality of the MkDir class so that users can create folders
+c-1. (ChangeDirectory) Implement the ChangeDirectory class so that users can swap through folders
+d-1. (PrintWorkingDirectory) Implement the functionality of the PrintWorkingDirectory class
+e-1. (Pushd) Write the base code for the Pushd command to add element to top of stack
+e-2. (Pushd) Implement the stack for LIFO
+f-1. (Popd) Write the base code of the Popd command so that it removes the top element the stack
+f-2. (Popd) Implement the stack for LIFO
+g-1. (History) Implement the functionality of the History class so that it lets users know the previous commands that were used in the terminal.
+h-1. (Cat) Implement the functionality for the Cat class so that users can see what is inside one or more files.
+i-1. (Echo) Implement the base code for the Echo class 
+j-1. (Echo arg1 > arg2 method) Implement the functionality for a method that supports the creation of files
+k-1. (Echo arg1 >> arg2 method) Implement the functionality for a method that supports the feature of appending to files
+l -1. (CommandErrorChecker) Implement the functionality of the CommandErrorChecker class so that it can let the user know what went wrong with the program
+m-1. (JShell) Implement the functionality of the terminal window
+z-1. Create a FileSystem to support FileSystem functionality for MkDir
+
+
+
+These tasks are assigned as follows:
+
+User: Vigaash
+Tasks: l-1, g-1, j-1, i-1, m-1
+
+User: Rahul
+Tasks: h-1, d-1, k-1, c-1, m-1
+
+User: Damian
+Tasks: a-1, b-1, e-1, e-2, f-1, f-2, z-1

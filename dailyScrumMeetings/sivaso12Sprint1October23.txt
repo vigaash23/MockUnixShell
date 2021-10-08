@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - editing the CRC cards and uploading
+    - worked on pseudocode for man.class
+
+What do I plan to work in the next three days?
+    - Finish editing CRC Cards
+    - Finish the man class
+    - Finish the Command Interpreter class
+
+Am I blocked on anything?
+    - No, I am not

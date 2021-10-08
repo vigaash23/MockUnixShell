@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Testing
+	- Overhauling all the comments so that methods has /* */ format
+	  and the basic comments are in // format
+	
+What do I plan to work in the next three days?
+	- Continue Testing and Complete it
+	- Finish comment overhaul
+
+Am I blocked on anything?
+    - Nothing is blocked

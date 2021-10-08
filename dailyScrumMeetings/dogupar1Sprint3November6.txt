@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- Echo class is done
+	- Testing
+	
+What do I plan to work in the next three days?
+	- Complete testing
+	- Making sure that every command that inputs a file takes a relative and
+	  absolute path
+
+Am I blocked on anything?
+    - Not blocked on anything

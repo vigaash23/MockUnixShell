@@ -1,0 +1,40 @@
+//Sprint 1 Backlog.  
+October 21 to October 27
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a terminal user I would like to be able to get help on how to use the 
+program
+b) As a terminal user I want to be able to exit the program without clicking 
+the exit button
+c) As a terminal user it would be nice to keep track of previous folders so I 
+can access them later
+d) As a terminal user I would like to be able to see previous commands that I 
+have used so I can quickly refer to them if I am doing repetitive tasks
+e) As a terminal user I want to  be able to make folders through the terminal
+
+Specific tasks to be accomplished:
+a-1. (Man) Write documentation messages for each command
+b-1. (Exit) Implement the functionality of the exit class 
+c-1. (Pushd) Write the base code for the Pushd command to add element to top 
+of stack
+c-2. (Pushd) Implement the stack for LIFO
+d-1. (Popd) Write the base code of for the Popd
+d-2. (Popd) Implement the stack so that it removes the top element of the stack
+e-1. (MkDir) Write the base code for MkDir
+y-1. (ParseInput) Parse user input so shell accepts all variations of the input
+z-1. Add all CRC cards from A1 as a starting point
+z-2. Edit CRC cards to match and appeal to the user stories
+z-3. Remove the unnecessary CRC cards
+
+
+These tasks are assigned as follows:
+
+User: Vigaash
+Tasks: y-1, a-1, z-1
+
+User: Rahul
+Tasks: b-1, z-2, z-3
+
+User: Damian
+Tasks: c-1, c-2, d-1, d-2,e-1

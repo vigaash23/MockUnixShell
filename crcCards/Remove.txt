@@ -1,0 +1,11 @@
+Class name: Remove
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Removes a directory from the filesystem specified by a relative or
+  absolute path
+
+Collaborators:
+- Filesystem
+- Directory

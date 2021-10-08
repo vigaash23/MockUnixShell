@@ -1,0 +1,9 @@
+Class name: ErrorChecker
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Checks that command entered exists and is called with correct syntax for the given command
+- Displays an error message if something goes wrong with command call
+
+Collaborators:

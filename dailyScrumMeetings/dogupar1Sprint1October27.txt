@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Finished edited the CRC cards
+    - Implemented the Exit class
+
+What do I plan to work in the next three days?
+    - Complete the Cat Class
+    - Complete the ChangeDirectory Class
+    - Complete the entirety of the Echo Class
+
+Am I blocked on anything?
+    - Not blocked on anything so far

@@ -1,0 +1,11 @@
+Class name: Cat
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Displays the contents of a file in the shell
+
+Collaborators:
+- FileSystem
+- File
+- Directory
